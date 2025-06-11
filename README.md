@@ -50,11 +50,11 @@ It includes detailed information on:
 - Then, I transformed each query by changing column types, removing unnecessary columns, cleaning text to eliminate specific words, and trimming excess whitespace.
     - 📊 data_jobs_all
 
-<img src="/Images/Project_2_Analysis_data_jobs_all_Applied_Steps.png" alt="Project_2_Analysis_data_jobs_all_Applied_Steps">
+<img src="/Images/Project_2_Analysis_data_jobs_all_Applied_Steps.png" width=50% alt="Project_2_Analysis_data_jobs_all_Applied_Steps">
 
     - 🛠️ data_job_skills
 	
-<img src="/Images/Project_2_Analysis_data_jobs_skills_Applied_Steps.png" alt="Project_2_Analysis_data_jobs_skills_Applied_Steps">
+<img src="/Images/Project_2_Analysis_data_jobs_skills_Applied_Steps.png" width = 50% alt="Project_2_Analysis_data_jobs_skills_Applied_Steps">
 
 #### 🔗 Load
 
@@ -74,7 +74,7 @@ It includes detailed information on:
 - 📈 There is a positive correlation between the number of skills requested in job postings and the median salary, particularly in roles like Senior Data Engineer and Data Scientist.
 - 💼 Roles that require fewer skills, like Business Analyst, tend to offer lower salaries, suggesting that more specialized skill sets command higher market value.
 
-<img src="/Images/Project_2_Analysis_Chart_1.png" alt="Project_2_Analysis_Chart_1">
+<img src="/Images/Project_2_Analysis_Chart_1.png" width = 60% alt="Project_2_Analysis_Chart_1">
 
 #### 🤔 So What
 
@@ -129,7 +129,7 @@ It includes detailed information on:
 
 - I created a relationship between my two tables using the `job_id` column.
 
-<img src="/Images/Project_2_Analysis_Power_Pivot_Diagram.png" alt="Project_2_Analysis_Power_Pivot_Diagram">
+<img src="/Images/Project_2_Analysis_Power_Pivot_Diagram.png" width = 60% alt="Project_2_Analysis_Power_Pivot_Diagram">
 
 #### 📃 Power Pivot Menu
 
@@ -144,7 +144,7 @@ It includes detailed information on:
 - 💻 SQL and Python dominate as top skills in data-related jobs, reflecting their foundational role in data processing and analysis.
 - ☁️ Emerging technologies like AWS and Azure also show significant presence, underlining the industry's shift towards cloud services and big data technologies.
 
-<img src="/Images/Project_2_Analysis_Chart_3.png" alt="Project_2_Analysis_Chart_3">
+<img src="/Images/Project_2_Analysis_Chart_3.png" width = 60% alt="Project_2_Analysis_Chart_3">
 
 #### 🤔So What
 
@@ -168,7 +168,7 @@ It includes detailed information on:
 - 💰 Higher median salaries are associated with skills like Python, Oracle, and SQL, suggesting their critical role in high-paying tech jobs.
 - 📉 Skills like PowerPoint and Word have the lowest median salaries and likelihood, indicating less specialization and demand in high-salary sectors.
 
-<img src="/Images/Project_2_Analysis_Chart_4.png" alt="Project_2_Analysis_Chart_4">
+<img src="/Images/Project_2_Analysis_Chart_4.png" width = 75% alt="Project_2_Analysis_Chart_4">
 
 ### 🤔So What
 
